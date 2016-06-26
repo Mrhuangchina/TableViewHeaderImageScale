@@ -15,6 +15,8 @@
 		41CFEF511D1FC1D100EB3693 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41CFEF4F1D1FC1D100EB3693 /* LaunchScreen.storyboard */; };
 		41CFEF5C1D1FC1D100EB3693 /* TableViewHeaderImageScaleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 41CFEF5B1D1FC1D100EB3693 /* TableViewHeaderImageScaleTests.m */; };
 		41CFEF671D1FC1D200EB3693 /* TableViewHeaderImageScaleUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 41CFEF661D1FC1D200EB3693 /* TableViewHeaderImageScaleUITests.m */; };
+		41CFEF751D1FC80B00EB3693 /* ICON.png in Resources */ = {isa = PBXBuildFile; fileRef = 41CFEF741D1FC80B00EB3693 /* ICON.png */; };
+		41CFEF771D1FCF7100EB3693 /* img3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 41CFEF761D1FCF7100EB3693 /* img3.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		41CFEF621D1FC1D200EB3693 /* TableViewHeaderImageScaleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableViewHeaderImageScaleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		41CFEF661D1FC1D200EB3693 /* TableViewHeaderImageScaleUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableViewHeaderImageScaleUITests.m; sourceTree = "<group>"; };
 		41CFEF681D1FC1D200EB3693 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		41CFEF741D1FC80B00EB3693 /* ICON.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ICON.png; sourceTree = "<group>"; };
+		41CFEF761D1FCF7100EB3693 /* img3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img3.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,8 @@
 		41CFEF401D1FC1D100EB3693 /* TableViewHeaderImageScale */ = {
 			isa = PBXGroup;
 			children = (
+				41CFEF741D1FC80B00EB3693 /* ICON.png */,
+				41CFEF761D1FCF7100EB3693 /* img3.jpg */,
 				41CFEF441D1FC1D100EB3693 /* AppDelegate.h */,
 				41CFEF451D1FC1D100EB3693 /* AppDelegate.m */,
 				41CFEF471D1FC1D100EB3693 /* ViewController.h */,
@@ -243,6 +249,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41CFEF751D1FC80B00EB3693 /* ICON.png in Resources */,
+				41CFEF771D1FCF7100EB3693 /* img3.jpg in Resources */,
 				41CFEF511D1FC1D100EB3693 /* LaunchScreen.storyboard in Resources */,
 				41CFEF4E1D1FC1D100EB3693 /* Assets.xcassets in Resources */,
 				41CFEF4C1D1FC1D100EB3693 /* Main.storyboard in Resources */,

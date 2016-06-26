@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "41CFEF3D1D1FC1D100EB3693"
+               BuildableName = "TableViewHeaderImageScale.app"
+               BlueprintName = "TableViewHeaderImageScale"
+               ReferencedContainer = "container:TableViewHeaderImageScale.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -12,7 +28,36 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "41CFEF561D1FC1D100EB3693"
+               BuildableName = "TableViewHeaderImageScaleTests.xctest"
+               BlueprintName = "TableViewHeaderImageScaleTests"
+               ReferencedContainer = "container:TableViewHeaderImageScale.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "41CFEF611D1FC1D200EB3693"
+               BuildableName = "TableViewHeaderImageScaleUITests.xctest"
+               BlueprintName = "TableViewHeaderImageScaleUITests"
+               ReferencedContainer = "container:TableViewHeaderImageScale.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "41CFEF3D1D1FC1D100EB3693"
+            BuildableName = "TableViewHeaderImageScale.app"
+            BlueprintName = "TableViewHeaderImageScale"
+            ReferencedContainer = "container:TableViewHeaderImageScale.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +71,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "41CFEF3D1D1FC1D100EB3693"
+            BuildableName = "TableViewHeaderImageScale.app"
+            BlueprintName = "TableViewHeaderImageScale"
+            ReferencedContainer = "container:TableViewHeaderImageScale.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +90,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "41CFEF3D1D1FC1D100EB3693"
+            BuildableName = "TableViewHeaderImageScale.app"
+            BlueprintName = "TableViewHeaderImageScale"
+            ReferencedContainer = "container:TableViewHeaderImageScale.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
